@@ -1,3 +1,5 @@
+# VARIABLES
+
 #Variables --> Valor de algún tipo de dato, almacenado en la RAM
 
 """
