@@ -41,3 +41,8 @@ print(mi_string[0:14])
 print(mi_string[0:15:2])
 
 
+#Función trim
+
+mi_string = "  Cadena de prueba   "
+string_trim = mi_string.strip()
+print(string_trim, '-')
